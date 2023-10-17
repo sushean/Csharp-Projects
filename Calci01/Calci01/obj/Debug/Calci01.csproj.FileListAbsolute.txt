@@ -1,0 +1,10 @@
+C:\Users\sushe\Source\Repos\Calci01\Calci01\bin\Debug\Calci01.exe.config
+C:\Users\sushe\Source\Repos\Calci01\Calci01\bin\Debug\Calci01.exe
+C:\Users\sushe\Source\Repos\Calci01\Calci01\bin\Debug\Calci01.pdb
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.csprojAssemblyReference.cache
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.Form1.resources
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.Properties.Resources.resources
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.csproj.GenerateResource.cache
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.csproj.CoreCompileInputs.cache
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.exe
+C:\Users\sushe\Source\Repos\Calci01\Calci01\obj\Debug\Calci01.pdb
